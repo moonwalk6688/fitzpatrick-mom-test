@@ -1,0 +1,353 @@
+{
+  "title": "The Mom Test",
+  "author": "Rob Fitzpatrick",
+  "source_path": null,
+  "source_env": "FITZPATRICK_MOM_TEST_SOURCE",
+  "sha256": "d52ddf975daa3b2fe62c23e37a4d8230762855e3cb2eb71c7c90baad847c6adf",
+  "source_lines": 2329,
+  "source_format": "PaddleOCR-VL-1.6 Markdown",
+  "chapters": [
+    {
+      "number": 1,
+      "title": "The Mom Test",
+      "start_line": 102,
+      "end_line": 385,
+      "file": "chapters/ch01.md",
+      "sections": [
+        [
+          112,
+          "Failing the mom test"
+        ],
+        [
+          144,
+          "Passing the mom test"
+        ],
+        [
+          184,
+          "A useful conversation"
+        ],
+        [
+          212,
+          "The Mom Test:"
+        ],
+        [
+          226,
+          "Good question / bad question"
+        ],
+        [
+          374,
+          "Using the mom test"
+        ]
+      ]
+    },
+    {
+      "number": 2,
+      "title": "Avoiding bad data",
+      "start_line": 386,
+      "end_line": 773,
+      "file": "chapters/ch02.md",
+      "sections": [
+        [
+          402,
+          "Deflect compliments"
+        ],
+        [
+          422,
+          "A bad conversation:"
+        ],
+        [
+          444,
+          "A good conversation:"
+        ],
+        [
+          472,
+          "A good (negative) conversation:"
+        ],
+        [
+          504,
+          "Anchor fluff"
+        ],
+        [
+          570,
+          "A bad conversation (pitching and accepting fluff):"
+        ],
+        [
+          622,
+          "Dig beneath ideas"
+        ],
+        [
+          642,
+          "Or:"
+        ],
+        [
+          674,
+          "Questions to dig into feature requests:"
+        ],
+        [
+          686,
+          "Questions to dig into emotional signals:"
+        ],
+        [
+          706,
+          "Stop seeking approval"
+        ],
+        [
+          722,
+          "Symptoms of The Pathos Problem:"
+        ]
+      ]
+    },
+    {
+      "number": 3,
+      "title": "Asking important questions",
+      "start_line": 774,
+      "end_line": 1039,
+      "file": "chapters/ch03.md",
+      "sections": [
+        [
+          794,
+          "Love bad news"
+        ],
+        [
+          826,
+          "Look before you zoom"
+        ],
+        [
+          832,
+          "A (really, really) bad conversation:"
+        ],
+        [
+          866,
+          "A good conversation:"
+        ],
+        [
+          962,
+          "Look at the elephant"
+        ],
+        [
+          974,
+          "An ambiguous conversation:"
+        ],
+        [
+          1022,
+          "Prepare your list of 3"
+        ]
+      ]
+    },
+    {
+      "number": 4,
+      "title": "Keeping it casual",
+      "start_line": 1040,
+      "end_line": 1129,
+      "file": "chapters/ch04.md",
+      "sections": [
+        [
+          1062,
+          "The meeting anti-pattern"
+        ],
+        [
+          1080,
+          "Symptoms of formality:"
+        ],
+        [
+          1094,
+          "How long are meetings?"
+        ],
+        [
+          1112,
+          "Putting it together"
+        ]
+      ]
+    },
+    {
+      "number": 5,
+      "title": "Commitment and advancement",
+      "start_line": 1130,
+      "end_line": 1355,
+      "file": "chapters/ch05.md",
+      "sections": [
+        [
+          1140,
+          "Symptoms:"
+        ],
+        [
+          1162,
+          "Meetings succeed or fail"
+        ],
+        [
+          1182,
+          "The currencies of conversation"
+        ],
+        [
+          1216,
+          "Good meeting / bad meeting"
+        ],
+        [
+          1274,
+          "\"When can we start the trial?\""
+        ],
+        [
+          1292,
+          "How to fix a bad meeting"
+        ],
+        [
+          1306,
+          "Don't pitch blind"
+        ],
+        [
+          1320,
+          "Crazy customers and your first sale"
+        ]
+      ]
+    },
+    {
+      "number": 6,
+      "title": "Finding conversations",
+      "start_line": 1356,
+      "end_line": 1603,
+      "file": "chapters/ch06.md",
+      "sections": [
+        [
+          1364,
+          "Going to them"
+        ],
+        [
+          1370,
+          "Cold calls"
+        ],
+        [
+          1378,
+          "Seizing serendipity"
+        ],
+        [
+          1388,
+          "Find a good excuse"
+        ],
+        [
+          1396,
+          "Immerse yourself in where they are"
+        ],
+        [
+          1402,
+          "Landing pages"
+        ],
+        [
+          1412,
+          "Bringing them to you"
+        ],
+        [
+          1416,
+          "Organise meetups"
+        ],
+        [
+          1424,
+          "Speaking & teaching"
+        ],
+        [
+          1432,
+          "Industry blogging"
+        ],
+        [
+          1438,
+          "Get clever"
+        ],
+        [
+          1448,
+          "Creating warm intro's"
+        ]
+      ]
+    },
+    {
+      "number": 7,
+      "title": "Choosing your customers",
+      "start_line": 1604,
+      "end_line": 1753,
+      "file": "chapters/ch07.md",
+      "sections": [
+        [
+          1610,
+          "Segmentation"
+        ],
+        [
+          1624,
+          "Babies or body builders?"
+        ],
+        [
+          1636,
+          "Big brands or mom & pop?"
+        ],
+        [
+          1650,
+          "But what does it mean!?"
+        ],
+        [
+          1670,
+          "Customer slicing"
+        ],
+        [
+          1730,
+          "Talking to the wrong people"
+        ]
+      ]
+    },
+    {
+      "number": 8,
+      "title": "Running the process",
+      "start_line": 1754,
+      "end_line": 2022,
+      "file": "chapters/ch08.md",
+      "sections": [
+        [
+          1770,
+          "Symptoms of a learning bottleneck:"
+        ],
+        [
+          1780,
+          "Prepping"
+        ],
+        [
+          1800,
+          "Prep questions to unearth hidden risks:"
+        ],
+        [
+          1816,
+          "Reviewing"
+        ],
+        [
+          1826,
+          "Who should show up"
+        ],
+        [
+          1834,
+          "a little overwhelming."
+        ],
+        [
+          1846,
+          "How to write it down"
+        ],
+        [
+          1856,
+          "Emotions"
+        ],
+        [
+          1866,
+          "Their life"
+        ],
+        [
+          1882,
+          "Specifics"
+        ],
+        [
+          1898,
+          "Where to write it down"
+        ],
+        [
+          1936,
+          "The process"
+        ]
+      ]
+    }
+  ],
+  "backmatter_start_line": 2023,
+  "generated": "2026-11-12"
+}
